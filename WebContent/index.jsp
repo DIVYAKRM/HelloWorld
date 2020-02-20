@@ -8,6 +8,6 @@
 <title>Hello World Java EE</title>
 </head>
 <body>
-    <h1>Hello JSP and Servlet Sample for CI/CD Updated!</h1>
+    <h1>Hello JSP and Servlet Sample for CI/CD Updated v1!</h1>
 </body>
 </html>
