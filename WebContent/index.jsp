@@ -13,6 +13,6 @@
 <body>
 	<h1>Hello JSP and Servlet Sample for CI/CD Updated!</h1>
 	
-	Host Name of Server <%=hostname%>
+	<h1>Host Name of Server <%=hostname%></h1>
 </body>
 </html>
